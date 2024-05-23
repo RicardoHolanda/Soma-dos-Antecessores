@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716294887 source:c:\users\ricardo.vieira\documents\facu\ed 2\funcoesrecursivas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
